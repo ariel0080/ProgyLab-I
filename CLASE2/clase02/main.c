@@ -34,8 +34,8 @@ int main()
     }
 
     printf("\n La cantidad de numeros pares es: %d\n",(par) );
-    printf("\n El promedio de los números ingresados es: %.2f\n", (float)suma /contador);
-    printf("\n La suma de todos los números es: %d", suma);
+    printf("\n El promedio de los nÃºmeros ingresados es: %.2f\n", (float)suma /contador); // asi casteo, solo en este intante suma es float
+    printf("\n La suma de todos los nÃºmeros es: %d", suma);
     printf("\n El maximo es: %d y el minimo es: %d", max,min);
 
 
