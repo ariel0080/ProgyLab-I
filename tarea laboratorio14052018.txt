@@ -1,0 +1,12 @@
+sabados a las 9;
+
+laboratorio 6;
+
+main -> crear un array de enteros de 10 elementos
+
+crear funcion cargarArray -> recibe un puntero a entero y un entero (int*,int)
+cargamos el array con un for, verificando nulidad en puntero
+ojo cuando usamos scanf (sin ampersan)
+
+crear funcion mostrarArray -> (int* array,int: tamaño del array);
+muestro con un for
