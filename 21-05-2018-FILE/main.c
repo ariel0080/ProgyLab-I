@@ -29,7 +29,7 @@ int main()
         while(!feof(pArchivo)) // feof  indica el fin de archivo
         {
             fgets(cadena,50,pArchivo);
-            puts(cadena);
+            puts(cadena); // fprintf("pArchivo")
         }
 
         fclose(pArchivo);
