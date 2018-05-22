@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527000649 source:c:\test\22-05-2018-memdinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+

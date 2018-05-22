@@ -1,0 +1,59 @@
+ESTRUCTURA DE UN HTML
+
+<html>
+
+<head>					</head> //cabecera (titulo)
+
+<body>
+
+
+
+
+</body>
+
+
+</html>
+
+
+A la tarde lo sube al github de german
+
+==================
+
+como separar datos de una cadena como por ejemplo: 19,juan,23 --> la coma es un delimitador, cada vez que la leo se que separa dos datos distintos
+
+
+usamos fscanf("")
+
+ojo el while(!eof) falla
+
+usar if(eof)
+break; 
+
+asi me aseguro que cuando lee el ultimo registro del archivo para
+
+PARA LA SEMANA DEL 28/5
+Leer sobre archivos
+Hacer el tp que se entrega el viernes 1!
+
+===========================
+
+memoria dinamica:
+
+pila/stack			heap/monton
+
+memoria limitada		memoria a la que se accede solo por punteros
+se guardan las variables
+declaras
+
+en la pila		
+solo el valor del puntero	en heap tengo el valor al que apunta el puntero, no se mueve
+
+int* y;
+*y=9;(el 9 esta en heap)
+
+
+como veniamos trabajando todos los movimientos de datos se realizaban dentro de la pila, poca performance
+
+si en la pila solo tenemos los punteros la pila tienen mucho menos movimiento, y en el heap no se mueven los datos una vez guardados.
+
+
