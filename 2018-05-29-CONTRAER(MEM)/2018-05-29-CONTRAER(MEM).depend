@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527603162 source:c:\test\2018-05-29-contraer(mem)\main.c
+	<stdio.h>
+	<stdlib.h>
+
